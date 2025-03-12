@@ -1,0 +1,45 @@
+/* style.css */
+
+/* ID Selector */
+#main-header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Class Selector */
+.content-section {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Element Selector */
+p {
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Class Selector for subtitle */
+.subtitle{
+  font-style: italic;
+  color: grey;
+}
+
+/* Image Style */
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    width: 300px;
+}
+
+/* List item style */
+.list-item {
+  margin-bottom: 5px;
+  padding-left: 10px;
+  list-style-type: square;
+}
